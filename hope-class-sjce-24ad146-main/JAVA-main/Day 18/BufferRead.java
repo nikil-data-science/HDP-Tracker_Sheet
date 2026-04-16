@@ -13,6 +13,7 @@ public class BufferRead{
         }
         catch(IOException e){
             e.printStackTrace();
+            
         }
     }
 }

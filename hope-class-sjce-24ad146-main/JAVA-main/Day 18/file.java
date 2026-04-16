@@ -14,6 +14,7 @@ public class file {
     }
         catch(IOException e){
             System.out.print("error occured");
+            //
         }
     }
 }

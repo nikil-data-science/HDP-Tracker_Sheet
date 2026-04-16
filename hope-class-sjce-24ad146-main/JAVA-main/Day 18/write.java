@@ -12,6 +12,7 @@ public class write {
         }
         catch(IOException e){
             System.out.print("Error occured");
+            //
         }
     }
 }
