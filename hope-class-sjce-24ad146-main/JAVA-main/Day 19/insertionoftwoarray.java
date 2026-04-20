@@ -20,4 +20,4 @@ public class insertionoftwoarray {
         ans[i]=res.get(i);
         return ans;
     }
-} 
+}
